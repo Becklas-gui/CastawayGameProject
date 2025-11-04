@@ -1,2 +1,5 @@
 alpha==codigos
+
+
+
 omega==executavel
